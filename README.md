@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently working with **Java, Python**
 
-- 📝 I regularly write articles on [My Medium Page](https://cengizcmataraci.medium.com) 
+- 📝 I regularly write articles on [My Medium Page](https://kmetin01.medium.com/) 
 
 - 📫 How to reach me **k.metin01@gmail.com**
  </p>
