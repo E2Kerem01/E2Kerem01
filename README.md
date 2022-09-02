@@ -8,6 +8,7 @@
 - 📝 I regularly write articles on [My Medium Page](https://kmetin01.medium.com/) 
 
 - 📫 How to reach me **k.metin01@gmail.com**
+- 
  </p>
 
 
