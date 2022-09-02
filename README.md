@@ -11,11 +11,11 @@
 - 
  </p>
 
-[![Twitter Badge]([https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link](https://img.shields.io/twitter/url?color=Blue&label=Twitter&logo=Kerem%20Metin&logoColor=White&style=social&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Twitter-C1223584%3Fstyle%3Dflat-quare%26labelColor%3DC13584%26logo%3DTwitter%26logoColor%3Dwhite%26link%3Dlink))](https://twitter.com/e2kerem) 
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/E2Kerem01) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/kerem_metinn/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@kmetin01) 
-[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://twitter.com/e2kerem)
 
 
 - 📄 Take a look at my Linkedin page [https://www.linkedin.com/in/keremmetin/](https://www.linkedin.com/in/keremmetin/)
