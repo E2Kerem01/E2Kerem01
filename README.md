@@ -42,4 +42,4 @@
 
 <p/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=E2Kerem01&show_icons=true&locale=en&layout=compact" alt="E2Kerem01" /></p>
+
