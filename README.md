@@ -15,7 +15,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/E2Kerem01) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/kerem_metinn/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@kmetin01) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://twitter.com/e2kerem)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-FF9800?style=flat-quare&labelColor=FF9800&logo=Twitter&logoColor=white&link=link)](https://twitter.com/e2kerem)
 
 
 - 📄 Take a look at my Linkedin page [https://www.linkedin.com/in/keremmetin/](https://www.linkedin.com/in/keremmetin/)
