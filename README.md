@@ -8,8 +8,8 @@
 - 📝 I regularly write articles on [My Medium Page](https://kmetin01.medium.com/) 
 
 - 📫 How to reach me **k.metin01@gmail.com**
-- 
- </p>
+</p>
+
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/E2Kerem01) 
@@ -18,7 +18,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-0067ff?style=flat-quare&labelColor=0067ff&logo=Twitter&logoColor=white&link=link)](https://twitter.com/e2kerem)
 
 
+
 - 📄 Take a look at my Linkedin page [https://www.linkedin.com/in/keremmetin/](https://www.linkedin.com/in/keremmetin/)
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,4 +40,4 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=E2Kerem01&show_icons=true&locale=en&layout=compact" alt="E2Kerem01" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=E2Kerem01&show_icons=true&locale=en&layout=compact" alt="" /></p>
